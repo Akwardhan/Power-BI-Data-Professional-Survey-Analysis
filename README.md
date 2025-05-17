@@ -11,7 +11,7 @@ The dataset contains anonymized responses from professionals in the data field. 
 - Salary ranges  
 - Preferred programming languages and tools  
 - Job titles and Work-Life balance
-- Countries of residence  
+- Countries of residence, and more
 
 ## Objectives  
 - Visualize global trends in data professional demographics  
