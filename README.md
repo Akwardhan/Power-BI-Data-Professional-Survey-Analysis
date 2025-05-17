@@ -20,10 +20,10 @@ The dataset includes anonymized responses from individuals working in data-relat
 - Highlight insights useful for aspiring or current data professionals
 
 ## Dashboard Preview  
-![Final Dashboard](Screenshots/Final_Dashboard.png)
+![Final Dashboard](https://github.com/Akwardhan/Power-BI-Data-Professional-Survey-Analysis/blob/main/Power%20BI-Report/Screenshot/Final_Dashboard.png)
 
 ## Power BI Report  
-📁 [Download Report](PowerBI_Report/SurveyBreakdown.pbix)
+📁 [Download Report](https://github.com/Akwardhan/Power-BI-Data-Professional-Survey-Analysis/blob/main/Power%20BI-Report/Data-Professional-Survey-Breakdown.pbix)
 
 ## Learnings  
 - Developed skills in Power BI dashboard creation  
