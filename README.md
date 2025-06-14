@@ -12,7 +12,7 @@ This project uncovers trends in salary, job satisfaction, tool usage (e.g., SQL,
 
 ---
 
-## 📁 Dataset Summary
+## 📦 Dataset Summary
 
 The dataset contains anonymized responses from 6,300+ professionals, covering:
 
@@ -55,6 +55,6 @@ The dataset contains anonymized responses from 6,300+ professionals, covering:
 ---
 
 ## 🧑‍💻 Author
-
 **Anmol Kirtiwardhan**  
-🌐 [akwardhan.github.io](https://akwardhan.github.io)
+🌐 Explore all my projects & live apps: [akwardhan.github.io](https://akwardhan.github.io)
+
