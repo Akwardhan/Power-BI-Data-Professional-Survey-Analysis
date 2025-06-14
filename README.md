@@ -16,11 +16,11 @@ This project uncovers trends in salary, job satisfaction, tool usage (e.g., SQL,
 
 The dataset contains anonymized responses from 6,300+ professionals, covering:
 
-- 💰 Salary bands (across countries)
-- 🛠 Tools & languages (SQL, Python, Excel, Tableau, etc.)
-- 💼 Job roles (analyst, engineer, scientist, etc.)
-- 🌐 Country of residence
-- 😄 Career satisfaction and remote preferences
+- Salary bands (across countries)
+-  Tools & languages (SQL, Python, Excel, Tableau, etc.)
+-  Job roles (analyst, engineer, scientist, etc.)
+-  Country of residence
+-  Career satisfaction and remote preferences
 
 ---
 
