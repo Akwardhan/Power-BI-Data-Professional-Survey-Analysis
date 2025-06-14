@@ -1,4 +1,5 @@
 # Data Professional Survey - Power BI Dashboard
+[![Power BI](https://img.shields.io/badge/Built%20With-Power%20BI-blue?logo=powerbi&logoColor=white)]()
 
 ## Overview  
 This project showcases an interactive Power BI dashboard built using real-world survey data from data industry professionals. The goal is to explore key patterns related to salary ranges, tools used, job roles, and geographic distribution.
